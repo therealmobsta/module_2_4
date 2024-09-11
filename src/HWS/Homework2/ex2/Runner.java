@@ -9,7 +9,7 @@ import java.util.Map;
 public class Runner {
 
     public static void main(String[] args) throws IOException {
-        String filePath = "src/resources/luggage.csv";
+        String filePath = "resources/luggage.csv";
         Map<String, Integer> statistics = calculateBaggageStatistics(filePath);
         printStatistics(statistics);
     }

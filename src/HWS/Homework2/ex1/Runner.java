@@ -10,7 +10,7 @@ import java.util.Map;
 public class Runner {
 
     public static void main(String[] args) throws IOException {
-        String filePath = "src/resources/luggage.csv";
+        String filePath = "resources/luggage.csv";
         BaggageHandler baggageHandler = new BaggageHandler();
         Map<String, Integer> bags = baggageHandler.readBagsFromFile(filePath);
         baggageHandler.processBags(bags);

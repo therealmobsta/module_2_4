@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6300c30f-e348-4da1-95eb-72f695c44190" name="Changes" comment="rr">
-      <change afterPath="$PROJECT_DIR$/src/HWS/Homework2/ex1/BaggageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HWS/Homework2/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HWS/Homework2/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson3/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson3/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson3/train/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson3/train/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson3/train/Wagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson3/train/WagonType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson4/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson4/ChildGarden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson4/ex/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/javaacademy/lesson4/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/luggage.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HWS/Homework1/ex1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HWS/Homework1/ex1/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HWS/Homework1/ex1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HWS/Homework1/ex1/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HWS/Homework1/ex1/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HWS/Homework1/ex1/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HWS/Homework1/ex2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HWS/Homework1/ex2/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HWS.Homework2.ex1.Runner.executor": "Run",
+    "Application.HWS.Homework2.ex2.Runner.executor": "Run",
     "Application.Runner.executor": "Run",
     "Application.StaircaseSequence.executor": "Run",
     "Application.StaircaseSequenceWithArray.executor": "Run",
@@ -79,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/module_2_4/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/module_2_4/resources/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -152,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725564213346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rr">
+      <option name="closed" value="true" />
+      <created>1726079988026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726079988027</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +161,11 @@
           <url>file://$PROJECT_DIR$/src/org/javaacademy/lesson3/train/Runner.java</url>
           <line>12</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/resources/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
